@@ -1,0 +1,144 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "marco",
+    "title": "1. Marco regulatorio y normativo",
+    "breadcrumb": ["Inicio","marco"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "marco",
+        "title": "1.1 Diferencia entre norma y reglamento",
+        "anchor": "diferencia"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "marco",
+        "title": "1.2 Marco colombiano",
+        "anchor": "colombiano"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "marco",
+        "title": "1.3 Marco internacional",
+        "anchor": "internacional"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "riesgo",
+    "title": "2. Riesgo eléctrico",
+    "breadcrumb": ["Inicio","riesgo"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.1 Peligro vs. riesgo",
+        "anchor": "vs"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.2 Acciones y condiciones inseguras",
+        "anchor": "acciones"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.3 Causas y consecuencias de accidentes eléctricos",
+        "anchor": "causas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.4 Arco eléctrico",
+        "anchor": "arco"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.5 Las cinco (5) reglas de oro",
+        "anchor": "reglas"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.6 Trabajos en tensión o con redes energizadas",
+        "anchor": "trabajos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.7 Equipos de Protección Personal (EPP)",
+        "anchor": "epp"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.8 Puestas a tierra",
+        "anchor": "tierra"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.9 Tensión de paso y tensión de contacto",
+        "anchor": "tension"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "riesgo",
+        "title": "2.10 Distancias de seguridad",
+        "anchor": "distancias"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "analisis",
+    "title": "3. Análisis de riesgos",
+    "breadcrumb": ["Inicio","analisis"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "analisis",
+        "title": " 3.1 Matriz de riesgos",
+        "anchor": "matriz"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "seguro",
+    "title": "4. Análisis de trabajo seguro ",
+    "breadcrumb": ["Inicio","seguro"],
+    "path": "pages/4-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "seguro",
+        "title": "4.1 Análisis previo a actividades",
+        "anchor": "previo"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "seguro",
+        "title": "4.2 Análisis durante las actividades",
+        "anchor": "durante"
+      }
+    ]
+  }
+]
